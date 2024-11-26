@@ -10,7 +10,6 @@ Technology is my playground, and its miracles fascinate me daily. From **AI** sh
 
 <p align="center">
   <img src="kit-laptop.png" alt="Vibrant Tech" width="40%" style="margin: 10px;"/>
-  <img src="chromed-prompt-driven-generative-artificial-intelligence-for-work-1.png" alt="AI Marvel" width="40%" style="margin: 10px;"/>
 </p>
 
 ---
