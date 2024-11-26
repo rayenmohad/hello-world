@@ -1,5 +1,7 @@
-# 🌟 Hello World 🌟  
-<img src="demure-young-it-specialist-holding-laptop.png" alt="Opening Image" width="60%" align="center"/>
+<h1 align="center">🌟 Hello World 🌟</h1>  
+<p align="center">
+  <img src="demure-young-it-specialist-holding-laptop.png" alt="Opening Image" width="60%"/>
+</p>
 
 Welcome to my **"Hello World"** repository—a personal space that goes beyond code to showcase the essence of who I am. This isn’t just about programming; it’s about curiosity, creativity, and connection. Dive in to discover the unique blend of my interests and passions that fuel my journey. 🌍✨
 
