@@ -1,5 +1,5 @@
 # 🌟 Hello World 🌟  
-![Opening Image](demure-young-it-specialist-holding-laptop.png)
+<img src="demure-young-it-specialist-holding-laptop.png" alt="Opening Image" width="60%" align="center"/>
 
 Welcome to my **"Hello World"** repository—a personal space that goes beyond code to showcase the essence of who I am. This isn’t just about programming; it’s about curiosity, creativity, and connection. Dive in to discover the unique blend of my interests and passions that fuel my journey. 🌍✨
 
@@ -8,37 +8,47 @@ Welcome to my **"Hello World"** repository—a personal space that goes beyond c
 ## 🚀 **The Wonders of Tech**  
 Technology is my playground, and its miracles fascinate me daily. From **AI** shaping intelligence to the marvels of **robotics**, and exploring the intricate details of **laptop hardware**, I thrive in the limitless possibilities of innovation.  
 
-![Vibrant Tech](kit-laptop.png)  
-![AI Marvel](chromed-prompt-driven-generative-artificial-intelligence-for-work-1.png)
+<p align="center">
+  <img src="kit-laptop.png" alt="Vibrant Tech" width="40%" style="margin: 10px;"/>
+  <img src="chromed-prompt-driven-generative-artificial-intelligence-for-work-1.png" alt="AI Marvel" width="40%" style="margin: 10px;"/>
+</p>
 
 ---
 
 ## 🌌 **Exploring the Metaverse**  
 The metaverse captivates me with its ability to redefine how we work, communicate, and create. Its potential to unlock new dimensions of collaboration and creativity is simply magical.  
 
-![Metaverse Magic](energy-vr-building-plan-slash-home-design-1.png)
+<p align="center">
+  <img src="energy-vr-building-plan-slash-home-design-1.png" alt="Metaverse Magic" width="50%"/>
+</p>
 
 ---
 
 ## 💡 **A Creator at Heart**  
 I love crafting new ideas, bringing concepts to life, and exploring the boundaries of creativity. There's nothing more exciting than seeing an idea grow into something meaningful.  
 
-![Catching Ideas](energy-abstract-collage-of-office-worker-trying-to-catch-ideas.png)
+<p align="center">
+  <img src="energy-abstract-collage-of-office-worker-trying-to-catch-ideas.png" alt="Catching Ideas" width="50%"/>
+</p>
 
 ---
 
 ## 🌲 **Nature: My Sanctuary**  
 Beyond tech, I find solace in **camping** and being surrounded by nature. It’s where I connect deeply with life and rediscover myself. Nature fuels my creativity and keeps me grounded, inspiring innovative thoughts and inner peace.  
 
-![Camping Vibes](notes-man-looking-at-map-during-camping-trip.png)  
-![Fields of Tranquility](scenes-poppy-field-background.png)
+<p align="center">
+  <img src="notes-man-looking-at-map-during-camping-trip.png" alt="Camping Vibes" width="40%" style="margin: 10px;"/>
+  <img src="scenes-poppy-field-background.png" alt="Fields of Tranquility" width="40%" style="margin: 10px;"/>
+</p>
 
 ---
 
 ## 🌸 **Floral Fascination**  
 I adore flowers and often find myself reading about them. **Gerbera** is my all-time favorite—its vibrant beauty reflects the optimism and joy I strive to bring to life.  
 
-![Gerbera Love](3d-fluency-flower-bouquet.png)
+<p align="center">
+  <img src="3d-fluency-flower-bouquet.png" alt="Gerbera Love" width="30%"/>
+</p>
 
 ---
 
@@ -55,4 +65,4 @@ So whether you're here to learn about me, collaborate on a project, or just say 
 
 ---
 
-> *"Innovation is born from curiosity, nurtured by creativity, and flourishes in connection."*  
+> *"Innovation is born from curiosity, nurtured by creativity, and flourishes in connection."*
